@@ -1,0 +1,12 @@
+C:\Users\emre\Desktop\C#Projeler\EntitiyLayer\bin\Release\EntitiyLayer.dll.config
+C:\Users\emre\Desktop\C#Projeler\EntitiyLayer\bin\Release\EntitiyLayer.dll
+C:\Users\emre\Desktop\C#Projeler\EntitiyLayer\bin\Release\EntitiyLayer.pdb
+C:\Users\emre\Desktop\C#Projeler\EntitiyLayer\bin\Release\EntityFramework.dll
+C:\Users\emre\Desktop\C#Projeler\EntitiyLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\emre\Desktop\C#Projeler\EntitiyLayer\bin\Release\EntityFramework.xml
+C:\Users\emre\Desktop\C#Projeler\EntitiyLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\emre\Desktop\C#Projeler\EntitiyLayer\obj\Release\EntitiyLayer.csproj.AssemblyReference.cache
+C:\Users\emre\Desktop\C#Projeler\EntitiyLayer\obj\Release\EntitiyLayer.csproj.CoreCompileInputs.cache
+C:\Users\emre\Desktop\C#Projeler\EntitiyLayer\obj\Release\EntitiyL.443F325D.Up2Date
+C:\Users\emre\Desktop\C#Projeler\EntitiyLayer\obj\Release\EntitiyLayer.dll
+C:\Users\emre\Desktop\C#Projeler\EntitiyLayer\obj\Release\EntitiyLayer.pdb

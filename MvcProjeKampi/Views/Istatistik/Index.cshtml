@@ -1,0 +1,38 @@
+﻿
+@{
+    Layout = null;
+}
+
+<h2>İstatistik Sayfası</h2>
+<br />
+<br />
+
+<h2>Toplam Kategori Sayısı</h2>
+
+<p>Veritabanındaki toplam kategori sayısı: @ViewBag.ToplamKategori</p>
+
+<h2>Yazılım Başlık Sayısı</h2>
+<p>Yazılım içerisindeki toplam başlık sayısı: @ViewBag.BaslikSayisi</p>
+
+
+<h2>İsminde A geçen Yazarlar</h2>
+<ul>
+    @foreach (var x in ViewBag.Yazarlar)
+    {
+        <li>@x.WriterName</li>
+
+    }
+</ul>
+
+
+<h3>En Fazla Başlığa Sahip Kategori</h3>
+
+@if (ViewBag.EnFazlaBaslikliKategori != null)
+{
+    <p>En fazla başlığa sahip kategori: @ViewBag.EnFazlaBaslikliKategori</p>
+    <p>Başlık sayısı: @ViewBag.BaslikSayisi</p>
+}
+
+<h3>True False Arasındaki Fark</h3>
+
+<p>Aralarındaki Fark=@ViewBag.Fark</p>

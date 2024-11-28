@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DataAccessLayer",
+    "\\DataAccessLayer\\Abstract",
+    "\\DataAccessLayer\\Concrete",
+    "\\DataAccessLayer\\Concrete\\Repositories",
+    "\\Views\\Category"
+  ],
+  "SelectedNode": "\\MvcProjeKampi.csproj.user",
+  "PreviewInSolutionExplorer": false
+}
